@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IRenderable
+comment0.text=\r\n\ The\ IRenderable\ interfaces\ all\ properties/behaviour\ to\ display\ a\ token\ in\ an\ Env3D\ simulation.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.5\r\n
+comment1.params=mod\ tex\ size
+comment1.target=void\ initialise(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Initialise\ the\ model,\ texture,\ and\ size.\r\n\ \r\n\ @param\ \ mod\ \ \ a\ String\ holding\ the\ path\ to\ the\ model\ file.\r\n\ @param\ \ tex\ \ \ a\ String\ holding\ the\ path\ to\ the\ texture\ image\ file.\r\n\ @param\ \ size\ \ a\ double\ holding\ the\ scale\ of\ the\ object\ as\ a\ fraction\ (between\ 0.0\ and\ 1.0).\r\n
+comment2.params=coords
+comment2.target=void\ position(double[])
+comment2.text=\r\n\ METHOD\:\ Place\ the\ token\ at\ the\ given\ position\ within\ the\ aquarium\r\n\r\n\ @param\ \ coords\ \ \ the\ new\ position\ of\ the\ token\ as\ an\ array\ of\ three\ doubles.\ \ \r\n
+comment3.params=coords
+comment3.target=void\ orientation(double[])
+comment3.text=\r\n\ METHOD\:\ Place\ the\ token\ at\ the\ given\ orientation\ within\ the\ aquarium\r\n\r\n\ @param\ \ coords\ \ \ the\ new\ orientation\ (x,y,z)\ of\ the\ token\ as\ an\ array\ of\ three\ doubles\r\n
+comment4.params=scale
+comment4.target=void\ scale(double)
+comment4.text=\r\n\ METHOD\:\ Scale\ the\ token\ by\ the\ given\ multiplier\r\n\r\n\ @param\ \ scale\ \ \ the\ new\ scale\ of\ the\ token\ as\ a\ double\r\n
+numComments=5

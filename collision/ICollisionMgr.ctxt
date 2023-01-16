@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=collidable
+comment0.target=void\ addCollidable(ICollidable)
+comment0.text=\r\n\ Subscribe\ a\ collidable.\r\n\ The\ collidable\ is\ any\ item\ that\ can\ collide\ within\ the\ world.\r\n\ \r\n\ @param\ \ collidable\ \ a\ world\ object\ of\ type\ ICollidable\ -\ the\ collidable\r\n
+comment1.params=collidable
+comment1.target=void\ removeCollidable(ICollidable)
+comment1.text=\r\n\ Unsubscribe\ a\ collidable.\r\n\ The\ collidable\ is\ any\ item\ that\ can\ collide\ within\ the\ world.\r\n\ \r\n\ @param\ \ collidable\ \ a\ world\ object\ of\ type\ ICollidable\ -\ the\ collidable\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Update\ the\ the\ manager.\r\n
+numComments=3

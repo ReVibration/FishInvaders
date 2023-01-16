@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=InvaderBehaviour
+comment0.text=\r\n\ InvaderBehaviour\ -\ implements\ movement\ behaviour\ for\ all\ fish\ taking\ the\ role\ of\ 'Invader'.\r\n\ \r\n\ @author\ Homer\ Simpson\ \r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=InvaderBehaviour()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InvaderBehaviour\r\n
+comment2.params=core
+comment2.target=void\ initialise(Framework.ICoreMgr)
+comment2.text=\r\n\ Method\ to\ provide\ further\ initialisation\ -\ must\ be\ called\ prior\ to\ update\r\n\ \r\n\ @param\ core\ a\ reference\ to\ the\ ICoreMgr\r\n
+comment3.params=
+comment3.target=void\ collided()
+comment3.text=\r\n\ Method\ to\ respond\ to\ a\ collision.\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ update()
+comment4.text=\r\n\ METHOD\:\ update\ behaviour\ simulation\ for\ next\ frame.\r\n\ Invader\ just\ moves\ horizontally...\r\n\ To\ do\:\ invaders\ need\ to\ move\ down\ a\ step\ each\ time\ they\ change\ direction.\r\n\ \r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ICollidable
+comment0.text=\r\n\ ICollidable\:\ something\ that\ can\ collide\ with\ another.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.6\r\n
+comment1.params=
+comment1.target=com.jme3.math.Vector3f\ position()
+comment1.text=\r\n\ Method\ to\ return\ ICollidable\ position\ as\ a\ jme3\ Vector3f\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ the\ ICollidable's\ position\ \r\n
+comment2.params=
+comment2.target=void\ collided()
+comment2.text=\r\n\ Method\ to\ signal\ a\ collision\r\n\ \r\n
+numComments=3

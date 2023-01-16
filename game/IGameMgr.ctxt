@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IGameMgr
+comment0.text=\r\n\ IGameMgr\:\ the\ manager\ class\ that\ actually\ runs\ the\ game.\r\n\r\n\ @author\ Bartek\ Siwak\ &\ Marc\ Price\r\n\ @version\ 0.1\ 26/04/2022\r\n
+comment1.params=
+comment1.target=void\ initialise()
+comment1.text=\r\n\ Initialise\ the\ IGameMgr\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Run\ update\ loop\r\n
+numComments=3

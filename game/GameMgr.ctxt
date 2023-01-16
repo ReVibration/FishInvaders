@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameMgr
+comment0.text=\r\n\ GameMgr\:\ the\ manager\ class\ that\ actually\ runs\ the\ game.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.6\r\n
+comment1.params=keys\ core\ behaviours\ collision\ thingMaker
+comment1.target=GameMgr(input.IInputPublisher,\ Framework.ICoreMgr,\ invaders.IBehaviourMgr,\ collision.ICollisionMgr,\ Framework.IRenderableFactory)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameMgr\r\n
+comment2.params=
+comment2.target=void\ initialise()
+comment2.text=\r\n\ Initialise\ the\ IGameMgr\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ Run\ update\ loop\r\n
+comment4.params=
+comment4.target=void\ createPlayer()
+comment4.text=\r\n\ Add\ the\ player\ to\ the\ scene\r\n
+comment5.params=coords
+comment5.target=void\ createInvader(double[])
+comment5.text=\r\n\ Add\ an\ invader\ to\ the\ scene\r\n\ \r\n
+comment6.params=coords
+comment6.target=void\ createBarrier(double[])
+comment6.text=\r\n\ Add\ a\ barrier\ to\ the\ scene\r\n\ \r\n
+numComments=7

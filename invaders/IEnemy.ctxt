@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=core
+comment0.target=void\ initialise(Framework.ICoreMgr)
+comment0.text=\r\n\ METHOD\:\ Initialise\ fields\r\n\ \r\n\ @param\ core\ a\ reference\ to\ the\ ICoreMgr\ instancce\r\n
+numComments=1

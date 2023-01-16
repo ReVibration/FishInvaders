@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IBehaviour
+comment0.text=\r\n\ IBehaviour\:\ interface\ for\ behaviours.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.5\r\n
+comment1.params=collision\ token\ posn\ angle
+comment1.target=void\ initialise(collision.ICollisionMgr,\ Framework.IRenderable,\ double[],\ double[])
+comment1.text=\r\n\ METHOD\:\ Initialise\ fields\ of\ the\ IBehaviour\r\n\ \r\n\ @param\ token\ a\ reference\ to\ the\ associated\ IRenderable\ instance\r\n\ @param\ posn\ a\ double[3]\ that\ gives\ the\ x,y,z\ position\ coordinates\ of\ the\ associated\ token\r\n\ @param\ angle\ a\ double[3]\ that\ gives\ the\ orientation\ about\ x,y,z\ axes\ of\ the\ associated\ token\r\n
+comment2.params=
+comment2.target=boolean\ update()
+comment2.text=\r\n\ METHOD\:\ update\ behaviour\ simulation\ for\ next\ frame.\r\n\ \r\n\ @return\ \ a\ boolean\ -\ false\ indicates\ a\ request\ by\ this\ behaviour\ to\ be\ deleted.\r\n
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment3.text=\r\n\ METHOD\:\ return\ true\ if\ the\ character\ is\ still\ alive,\ false\ if\ dead.\r\n\ \r\n\ @return\ a\ boolean\ -\ false\ means\ that\ the\ character\ has\ died\ and\ needs\ to\ be\ deleted.\r\n
+numComments=4

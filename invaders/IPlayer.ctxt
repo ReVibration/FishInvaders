@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IPlayer
+comment0.text=\r\n\ IPlayer\:\ all\ player\ behaviours\ must\ implement\ this.\r\n\ \r\n\ @author\ Heir\ Flick\ \r\n\ @version\ 0.6\r\n
+comment1.params=behaviours\ thingMaker
+comment1.target=void\ initialise(IBehaviourMgr,\ Framework.IRenderableFactory)
+comment1.text=\r\n\ METHOD\:\ Initialise\ fields\r\n\ \r\n\ @param\ behaviours\ a\ reference\ to\ the\ IBehaviourMgr\ instance\r\n\ @param\ thingMaker\ a\ reference\ to\ the\ IRenderableFactory\ instance\r\n
+numComments=2

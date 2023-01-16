@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ is\ the\ top-level\ class\ for\ the\ FishInvaders\ game.\r\n\ \r\n\ @author\ Marc\ Price\ &\ Bartek\ Siwak\r\n\ @version\ 0.6\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ METHOD\:\ Static\ Main\ method\ used\ for\ creating\ standalone\ apps\r\n\r\n
+comment2.params=
+comment2.target=Main()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ METHOD\:\ Run\ the\ simulation\ loop.\ \ User\ presses\ escape\ to\ exit.\r\n\r\n
+numComments=4

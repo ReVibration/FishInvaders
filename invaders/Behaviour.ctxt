@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Behaviour
+comment0.text=\r\n\ Behaviour\ -\ implements\ invader\ behaviours.\r\n\ \r\n\ @author\ Marc\ Price\r\n\ @version\ 0.5\r\n
+comment1.params=
+comment1.target=Behaviour()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Behaviour\r\n
+comment2.params=collision\ token\ posn\ angle
+comment2.target=void\ initialise(collision.ICollisionMgr,\ Framework.IRenderable,\ double[],\ double[])
+comment2.text=\r\n\ METHOD\:\ Initialise\ fields\ of\ the\ IBehaviour\r\n\ \r\n\ @param\ token\ a\ reference\ to\ the\ associated\ IRenderable\ instance\r\n\ @param\ posn\ a\ double[3]\ that\ gives\ the\ x,y,z\ position\ coordinates\ of\ the\ associated\ token\r\n\ @param\ angle\ a\ double[3]\ that\ gives\ the\ orientation\ about\ x,y,z\ axes\ of\ the\ associated\ token\r\n
+comment3.params=
+comment3.target=boolean\ update()
+comment3.text=\r\n\ METHOD\:\ update\ the\ IBehaviour\ simulation\ for\ next\ frame\ -\ must\ be\ implemented\ by\ all\ subclasses.\r\n\ \r\n\ @return\ \ a\ boolean\ -\ false\ indicates\ a\ request\ by\ this\ behaviour\ to\ be\ deleted.\r\n\ \r\n
+comment4.params=
+comment4.target=com.jme3.math.Vector3f\ position()
+comment4.text=\r\n\ Method\ to\ return\ ICollidable\ position\ as\ a\ jme3\ Vector3f\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ the\ ICollidable's\ position\ \r\n
+comment5.params=
+comment5.target=void\ collided()
+comment5.text=\r\n\ Method\ to\ respond\ to\ a\ collision\ -\ must\ be\ implemented\ by\ all\ subclasses.\r\n\ \r\n
+comment6.params=
+comment6.target=boolean\ isAlive()
+comment6.text=\r\n\ METHOD\:\ return\ true\ if\ the\ character\ is\ still\ alive,\ false\ if\ dead.\r\n\ \r\n\ @return\ a\ boolean\ -\ false\ means\ that\ the\ character\ has\ died\ and\ needs\ to\ be\ deleted.\r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CollisionMgr
+comment0.text=\r\n\ CollisionMgr\ is\ a\ simple\ collision\ manager\ that\ detects\ and\ signals\ a\ collision\ between\ two\ items.\r\n\ \r\n\ @author\ Daffy\ Duck\ \r\n\ @version\ 0.6\r\n
+comment1.params=
+comment1.target=CollisionMgr()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CollisionMgr\r\n
+comment2.params=collidable
+comment2.target=void\ addCollidable(ICollidable)
+comment2.text=\r\n\ Subscribe\ a\ collidable.\r\n\ The\ collidable\ is\ any\ item\ that\ can\ collide\ within\ the\ world.\r\n\ \r\n\ @param\ \ collidable\ \ a\ world\ object\ of\ type\ ICollidable\ -\ the\ collidable\r\n
+comment3.params=collidable
+comment3.target=void\ removeCollidable(ICollidable)
+comment3.text=\r\n\ Unsubscribe\ a\ collidable.\r\n\ The\ collidable\ is\ any\ item\ that\ can\ collide\ within\ the\ world.\r\n\ \r\n\ @param\ \ collidable\ \ a\ world\ object\ of\ type\ ICollidable\ -\ the\ collidable\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ Update\ the\ the\ manager\ -\ tell\ it\ to\ perform\ the\ next\ collision\ check.\r\n
+numComments=5

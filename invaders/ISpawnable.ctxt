@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ISpawnable
+comment0.text=\r\n\ An\ ISpawnable\ is\ an\ object\ that\ can\ be\ 'spawned'\ -\ ie\ placed\ at\ a\ specific\ 'location'.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.6\r\n
+comment1.params=coords
+comment1.target=void\ spawn(double[])
+comment1.text=\r\n\ Spawn\ the\ item\ at\ the\ given\ (x,y,z)\ coordinates\r\n\ \r\n\ @param\ \ coords\ \ \ \ a\ double[]\ that\ holds\ the\ x,y,z\ coordinates\r\n
+numComments=2

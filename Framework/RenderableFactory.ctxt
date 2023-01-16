@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RenderableFactory
+comment0.text=\r\n\ RenderableFactory\:\ a\ class\ to\ create\ displayable\ tokens.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.1\r\n
+comment1.params=core
+comment1.target=RenderableFactory(ICoreMgr)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RenderableFactory\r\n
+comment2.params=model\ texture\ posn\ angle\ scale
+comment2.target=IRenderable\ createRenderable(java.lang.String,\ java.lang.String,\ double[],\ double[],\ double)
+comment2.text=\r\n\ Create\ and\ return\ new\ IRenderable\ instance.\r\n\ \r\n\ @param\ \ \ model\ \ \ \ specifies\ the\ 3D\ model\ to\ be\ used\r\n\ @param\ \ \ texture\ \ specifies\ the\ texture\ to\ be\ used\r\n\ @param\ \ \ posn\ \ \ \ a\ double[3]\ that\ gives\ the\ x,y,z\ location\ coords\r\n\ @param\ \ \ angle\ \ \ a\ double[3]\ that\ gives\ the\ orientation\ about\ the\ x,y,z\ axes\r\n\ @param\ \ \ scale\ \ \ a\ double\ that\ specifies\ the\ scale-factor\ (between\ 0.0\ and\ 1.0)\r\n
+numComments=3

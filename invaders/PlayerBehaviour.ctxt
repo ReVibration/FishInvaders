@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlayerBehaviour
+comment0.text=\r\n\ PlayerBehaviour\ -\ implements\ movement\ behaviour\ for\ the\ fish\ taking\ the\ role\ of\ 'Player'.\r\n\ \r\n\ @author\ Marc\ Price\ \r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=PlayerBehaviour()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerBehaviour\r\n
+comment2.params=behaviours\ thingMaker
+comment2.target=void\ initialise(IBehaviourMgr,\ Framework.IRenderableFactory)
+comment2.text=\r\n\ METHOD\:\ Initialise\ fields\r\n\ \r\n\ @param\ behaviours\ a\ reference\ to\ the\ IBehaviourMgr\ instance\r\n\ @param\ thingMaker\ a\ reference\ to\ the\ IRenderableFactory\ instance\r\n
+comment3.params=
+comment3.target=void\ collided()
+comment3.text=\r\n\ Method\ to\ respond\ to\ a\ collision.\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ update()
+comment4.text=\r\n\ METHOD\:\ update\ behaviour\ simulation\ for\ next\ frame.\r\n\ Player\ just\ moves\ horizontally...\r\n\ \r\n
+comment5.params=inputVal
+comment5.target=void\ onInput(int[])
+comment5.text=\r\n\ Method\ to\ handle\ a\ keyboard\ input\ (IInputListener)\r\n\ \r\n
+comment6.params=
+comment6.target=void\ releaseBubble()
+comment6.text=\r\n\ Method\ to\ create\ a\ bubble\r\n\ \r\n
+numComments=7
